@@ -1,5 +1,10 @@
 [
     {
+        "test": "Test Opcode Program",
+        "file": "Test Opcode Program.ch8",
+        "description": "Used to test the emulator"
+    },
+    {
         "title": "15 PUZZLE",
         "file": "15 Puzzle [Roger Ivie].ch8",
         "description": "15 Puzzle, by Roger Ivie<br/><br/>Rearrange the tiles into the sequence 0-F. Moves tile by it associated key."
